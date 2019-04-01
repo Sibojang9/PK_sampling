@@ -1,0 +1,11 @@
+Package: aaasibo
+Type: Package
+Title: Sibo's Toolbox
+Version: 0.1.0
+Author: Sibo Jiang
+Maintainer: Sibo Jiang <siboj9@gmail.com>
+Description: Nothing now
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
